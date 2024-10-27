@@ -15,3 +15,14 @@ Frontend: React JS and Sass for a responsive and visually appealing user interfa
 Backend: Firebase Firestore for real-time database operations, storing user chats and other relevant data.
 
 
+![Home Page](Home.png)
+
+
+
+![Profile Page](Profile.png)
+
+
+
+
+
+![Search Page](Search.png)
